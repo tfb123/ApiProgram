@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ApiProgram</string>
+    <string name="base_currency">AUD: 1.00</string>
+    <string name="nzd">NZD:</string>
+    <string name="usd">USD:</string>
+</resources>
