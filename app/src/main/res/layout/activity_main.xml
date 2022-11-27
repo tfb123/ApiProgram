@@ -42,10 +42,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/baseCurrency" />
     <TextView
-        android:id="@+id/usd"
+        android:id="@+id/aud"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/usd"
+        android:text="@string/aud"
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -64,6 +64,6 @@
         android:layout_marginTop="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/usd" />
+        app:layout_constraintTop_toBottomOf="@+id/aud" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
